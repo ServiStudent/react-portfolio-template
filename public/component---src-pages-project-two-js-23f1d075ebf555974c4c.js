@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{"wMl+":function(e,n,t){"use strict";t.r(n);var r=t("q1tI"),a=t.n(r),l=t("Bl7J"),o=t("vrFN");t("rY4l"),t("I3RS"),t("WL7D"),t("nOYz"),t("KMQX"),t("JwsL");n.default=function(){return a.a.createElement(l.a,null,a.a.createElement(o.a,{title:"Marleen van der Eerden - Portfolio"}),a.a.createElement("h1",null," Project Two "))}}}]);
+//# sourceMappingURL=component---src-pages-project-two-js-23f1d075ebf555974c4c.js.map

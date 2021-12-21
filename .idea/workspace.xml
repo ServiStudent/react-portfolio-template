@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d563e1e-9280-4b85-a026-af6511c423f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/Project One.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Project Two.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Work.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/mains.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/mains.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yourdata.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/yourdata.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +45,23 @@
       <recent name="C:\Users\servi\IdeaProjects\react-portfolio-marleen\src\pages" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -64,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640105919966</updated>
-      <workItem from="1640105923795" duration="2942000" />
+      <workItem from="1640105923795" duration="4760000" />
     </task>
     <servers />
   </component>
@@ -72,21 +80,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1640122508629">
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1640125096696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640122508629" />
-    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1640122508629">
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640125096696" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1640125096695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640122508629" />
-    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1640122508629">
+    <state width="1877" height="261" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640125096695" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1640125096695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640122508629" />
-    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1640122508629">
+    <state width="1877" height="261" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640125096695" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1640125096695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640122508629" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640125096695" />
   </component>
 </project>
