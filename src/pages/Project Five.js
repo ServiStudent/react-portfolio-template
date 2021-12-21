@@ -10,12 +10,11 @@ import Skills from "../components/skills"
 import Promotion from "../components/Promotion"
 import Footer from "../components/Footer"
 
-const IndexPage = () => (
+const ProjectFivePage = () => (
   <Layout>
     <SEO title="Marleen van der Eerden - Portfolio" />
-    <Header></Header>
-    <Work></Work>
+    <h1> Project Five </h1>
   </Layout>
 )
 
-export default IndexPage
+export default ProjectFivePage
