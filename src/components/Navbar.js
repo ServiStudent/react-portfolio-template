@@ -14,7 +14,8 @@ const Navbar = () => {
             Portfolio
           </div>
           <div className="links-wrapper">
-            <button onClick={() => window.location.replace('/')}>Home</button>
+            <button onClick={() => window.location.assign('/')}>Home</button>
+            <button onClick={() => window.open('https://www.instagram.com/marleenvandereerden/', '_blank')}>Instagram</button>
           </div>
         </div>
       </div>

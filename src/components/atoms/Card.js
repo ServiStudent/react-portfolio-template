@@ -3,7 +3,7 @@ import React from "react"
 const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
   return (
     <div
-        onClick={() => window.location.replace(`/${heading}`)}
+        onClick={() => window.location.assign(`${projectLink}`)}
       className="card"
       style={{
         backgroundImage:
