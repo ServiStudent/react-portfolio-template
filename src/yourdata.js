@@ -15,7 +15,7 @@ import projectOneFront from "./images/Project One/voorfoto.jpg"
 import projectTwoFront from "./images/Project Two/voorfoto.jpg"
 import projectThreeFront from "./images/Project Three/4.jpg"
 import projectFourFront from "./images/Project Four/voorfoto.jpg"
-import projectFiveFront from "./images/Project Five/voorfoto.png"
+import projectFiveFront from "./images/Project Five/voorfoto.jpg"
 import projectOne1 from "./images/Project One/voorfoto.jpg";
 import projectOne2 from "./images/Project One/voorfoto2.jpg";
 import projectTwo1 from "./images/Project Two/1.jpg";
@@ -42,6 +42,18 @@ import projectThree1 from "./images/Project Three/1.jpg";
 import projectThree2 from "./images/Project Three/2.jpg";
 import projectThree3 from "./images/Project Three/3.jpg";
 import projectThree4 from "./images/Project Three/4.jpg";
+import projectThree5 from "./images/Project Three/5.jpg";
+import projectThree6 from "./images/Project Three/6.jpg";
+import projectThree7 from "./images/Project Three/7.jpg";
+import projectThree8 from "./images/Project Three/8.jpg";
+import projectThree9 from "./images/Project Three/9.jpg";
+import projectThree10 from "./images/Project Three/10.jpg";
+import projectThree11 from "./images/Project Three/11.jpg";
+import projectThree12 from "./images/Project Three/12.jpg";
+import projectThree13 from "./images/Project Three/13.jpg";
+import projectThree14 from "./images/Project Three/14.jpg";
+
+
 
 import projectFour1 from "./images/Project Four/1.jpg";
 import projectFour2 from "./images/Project Four/2.jpg";
@@ -97,7 +109,7 @@ export default {
     {
       title: "Wandkleed", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Project Wandkleed.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         projectOneFront,
@@ -107,7 +119,7 @@ export default {
     {
       title: "Intuïtief ontwerpen", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Project intuïtief ontwerpen.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         projectTwoFront,
@@ -117,7 +129,7 @@ export default {
     {
       title: "Serie reconstructies", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Project serie reconstructies.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         projectThreeFront,
@@ -127,7 +139,7 @@ export default {
     {
       title: "Fungi", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Project fungi.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         projectFourFront,
@@ -137,7 +149,7 @@ export default {
     {
       title: "Eindcollectie KW1C", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Project eindcollectie KW1C.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
       projectFiveFront,
@@ -226,6 +238,36 @@ export default {
   ],
 
   projectThree: [
+    {
+      imageSrc: projectThree5,
+    },
+    {
+      imageSrc: projectThree6,
+    },
+    {
+      imageSrc: projectThree7,
+    },
+    {
+      imageSrc: projectThree8,
+    },
+    {
+      imageSrc: projectThree9,
+    },
+    {
+      imageSrc: projectThree10,
+    },
+    {
+      imageSrc: projectThree11,
+    },
+    {
+      imageSrc: projectThree12,
+    },
+    {
+      imageSrc: projectThree13,
+    },
+    {
+      imageSrc: projectThree14,
+    },
     {
       imageSrc: projectThree1,
     },

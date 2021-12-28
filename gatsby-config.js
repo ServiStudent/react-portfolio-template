@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: "/MarleenPortfolio",
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Marleen van der Eerden - Portfolio`,
+    description: `Het portfolio van Marleen van der Eerden.`,
+    author: `@Marleenvandereerden`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
