@@ -1,4 +1,5 @@
 import React from "react"
+import projectFourFilmpje from "../images/Project Four/filmpje4.mp4";
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -11,6 +12,8 @@ import Promotion from "../components/Promotion"
 import Footer from "../components/Footer"
 import Fade from "react-reveal/Fade";
 import data from "../yourdata";
+import vid from "../images/Project One/eindpresentatie wandkleed voices of fashion.mp4";
+import ReactPlayer from "react-player";
 
 const ProjectFourPage = () => (
     <Layout>
@@ -26,6 +29,7 @@ const ProjectFourPage = () => (
                     </Fade>
                     <div className="grid2">
                         <Fade bottom cascade>
+                            <ReactPlayer style={{marginTop: 10}} volume={0} muted={true} url={projectFourFilmpje} width="100%" height="100%" controls={true} />
                             {data.projectFour.map((project, index) => (
                                 <img className={"photo"} src={project.imageSrc}/>
                             ))}
